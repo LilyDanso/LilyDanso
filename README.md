@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm Lily!  <br/><a href="https://github.com/LilyDanso">Data Analyst</a>
 
 <!--
 **LilyDanso/LilyDanso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
